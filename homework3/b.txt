@@ -1,0 +1,5 @@
+-- average CPU burst time: 5.00 ms
+-- average wait time: 0.00 ms
+-- average turnaround time: 13.00 ms
+-- total number of context switches: 4
+-- total number of preemptions: 0
